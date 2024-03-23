@@ -64,7 +64,7 @@ form .microphone{
     margin: 0px;
 }
 .navbar{
-    margin-left:25px;
+    margin-left:20px;
     display:inline-block;
     text-align: center;
 }
@@ -99,9 +99,9 @@ form .microphone{
     font-size: smaller;
 }
 .titanpage{
-    width: 1440px;
+    width: 1340px;
     height: 370px;
-    display:flex;
+    
     margin-left: 0px;
 }
 .div_down{
@@ -111,8 +111,57 @@ form .microphone{
 .content_words{
     font-family: sans-serif;
     color:black;
-    font-size: medium;
+    font-size:large;
+    margin-left: 20px;
+}
+.bar{
+    height: 4px;
+    background-color: #F8ECD9;
+    margin-left:20px;
+    border-radius: 10px;
 }
 .content{
-
+    margin-top: 30px;
+}
+.titan-1{
+    height:360px;
+    width:640px;
+}
+.titan-2{
+    height:360px;
+    width:640px;
+}
+.titan-1-2{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.titan-3{
+    width:1100px;
+    height:160px;
+    margin-left: 140px;
+    margin-top: 50px;
+}
+.dot-1{
+    width:7px;
+    height:7px;
+    border-radius: 50%;
+    border-color: #DDA243;
+    border-style: solid;
+    border-width: 1px;
+}
+.dot-2{
+    width:7px;
+    height:7px;
+    margin-left: 10px;
+    border-radius: 50%;
+    background-color: #DDA243;
+    border-color: #DDA243;
+    border-style: solid;
+    border-width: 1px;
+}
+.dot{
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
 }
