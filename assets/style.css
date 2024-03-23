@@ -99,8 +99,20 @@ form .microphone{
     font-size: smaller;
 }
 .titanpage{
-    width: 1350px;
+    width: 1440px;
     height: 370px;
-    display:inline-block;
-    margin-right: 30px;
+    display:flex;
+    margin-left: 0px;
+}
+.div_down{
+    display:flex;
+    justify-content: center;
+}
+.content_words{
+    font-family: sans-serif;
+    color:black;
+    font-size: medium;
+}
+.content{
+
 }
